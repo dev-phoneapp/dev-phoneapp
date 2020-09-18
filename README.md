@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yyadavved)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yadavved.yadavved&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dev-phoneapp.dev-phoneapp&style=flat-square&color=0088cc)
 
 I'm currently into Application Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
